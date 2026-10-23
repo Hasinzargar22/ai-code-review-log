@@ -1,5 +1,5 @@
-"""AI-generated solutions, kept exactly as the AI produced them (bugs included).
-See REVIEW_LOG.md for the analysis of each bug."""
+   """Buggy solutions written to reproduce common mistakes found in AI-generated code.
+   See REVIEW_LOG.md for the analysis of each bug."""
 
 
 # --- Problem 01 ---
